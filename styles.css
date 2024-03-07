@@ -1,0 +1,48 @@
+#card {
+  background-color: #fff;
+  border-radius: 10px;
+  margin: 50px;
+  height: 380px;
+  width: 380px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.6);
+}
+
+.cor {
+  color: blue;
+  padding-left: 10px;
+  
+}
+
+.og {
+  text-decoration: line-through;
+  color: gray;
+  padding-left: 5px;
+}
+
+.co {
+  background-color: hwb(146 0% 12%);
+  padding-left: 5px;
+  
+}
+
+img {
+  height: 220px;
+  width: 320px;
+  margin-top: 20px;
+  margin-left: 14px;
+  border-radius: 10px;
+}
+
+
+.hr {
+  background-color: beige;
+  width: 300px;
+  margin-left: 2px;
+}
+
+p{
+    font-size: x-large;
+    margin: 10px;
+
+
+}
